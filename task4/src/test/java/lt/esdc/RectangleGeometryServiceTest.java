@@ -1,6 +1,4 @@
-import lt.esdc.Point;
-import lt.esdc.RectangleGeometryService;
-import lt.esdc.RectanglePosition;
+package lt.esdc;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
